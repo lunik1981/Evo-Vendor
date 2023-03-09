@@ -1,4 +1,4 @@
-Unified Device Tree for Redmi 10/10C/10 Power
+Unified Device Vendor for Redmi 10/10C/10 Power
 ===========================================
 
 The Redmi 10C (fog) is an entry level-smartphone from Redmi, Released 2022, March 23
